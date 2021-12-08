@@ -21,7 +21,7 @@ export default App;
 - Import npm package: npm i country-dropdown-with-flags-for-react 
 - Import CountryDropdown component from 'country-dropdown-with-flags-for-react' 
 - add CountryDropdown tag with methods and attributes as shown above.
-- handleChange method will return you current selected country in dropdown. 
+- handleChange method will return you the current selected country in dropdown. 
 in above example. e.target.value is returning selected country name.
 - You can add custom CSS class to this element to modify the style of component.
 - Add Unique ID in id field or you can skip that attribute.
